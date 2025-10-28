@@ -97,14 +97,6 @@ Coming soon! Check out my repositories to see what I'm working on.
 
 ---
 
-## 📝 **Latest Articles & Blog**
-
-I regularly write about Laravel, GoLang, and web development best practices:
-
-- 📖 **Dev.to** - [View my articles](https://dev.to)
-- 💭 **Medium** - [Read my stories](https://medium.com)
-
----
 
 ## 🏆 **Achievements**
 
