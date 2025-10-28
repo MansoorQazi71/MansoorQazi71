@@ -53,7 +53,7 @@ I believe in writing clean, understandable code that stands the test of time.
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MansoorQazi71&theme=dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MansoorQazi71)](https://github.com/MansoorQazi71/github-readme-stats)
+[![MansoorQazi71's GitHub stats](https://github-readme-stats.vercel.app/api?username=MansoorQazi71)](https://github.com/MansoorQazi71/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MansoorQazi71&layout=compact&theme=dark)
 
 </div>
