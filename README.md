@@ -53,6 +53,7 @@ I believe in writing clean, understandable code that stands the test of time.
 <div align="center">
 
 [![MansoorQazi71's GitHub stats](https://github-readme-stats.vercel.app/api?username=MansoorQazi71)](https://github.com/MansoorQazi71/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MansoorQazi71)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MansoorQazi71&layout=compact&theme=dark)
 
 </div>
