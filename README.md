@@ -1,116 +1,25 @@
-# 👋 Hi, I'm Mansoor Ahmad Qazi
+<h1 align="center">Hi 👋, I'm Mansoor Ahmad Qazi</h1>
+<h3 align="center">🚀 Software Engineer | Laravel & GoLang Developer | API & Web Application Specialist</h3>
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansoorqazi71&label=Profile%20views&color=0e75b6&style=flat" alt="mansoorqazi71" /> </p>
 
-## 🚀 **Software Engineer | Laravel & GoLang Developer | API & Web Application Specialist**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansoorqazi71" alt="mansoorqazi71" /></a> </p>
 
-*Passionate developer focused on building **secure, scalable, and high-performing web applications***
+- 🌱 I’m currently learning **Golang**
 
-</div>
+- 📫 How to reach me **mansoorqazi71@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/dev.mansoorqazi71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.mansoorqazi71" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mansoorqazi71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansoorqazi71" height="30" width="40" /></a>
+</p>
 
-## 💫 About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-I'm a passionate developer focused on building **secure, scalable, and high-performing web applications**.  
-With hands-on experience in **Laravel**, **GoLang**, and modern **PHP** ecosystems, I love turning complex problems into clean, maintainable code.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansoorqazi71&show_icons=true&locale=en&layout=compact" alt="mansoorqazi71" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansoorqazi71&show_icons=true&locale=en" alt="mansoorqazi71" /></p>
 
-## 💻 **Tech Stack & Expertise**
-
-- 🧠 **Laravel Framework** — Backend logic, API development, MVC structure  
-- 💾 **Eloquent ORM** — Writing efficient and relational database queries  
-- ⚙️ **Routing & Middleware** — Request handling and security layers  
-- 🎨 **Blade Templating** — Building seamless and dynamic UIs  
-- 🔐 **Validation & Authentication** — Creating secure user systems  
-- 📦 **Packages & Composer** — Streamlining development through modular design  
-- 🚀 **Queues & Jobs** — Optimizing performance with background processing  
-- 🧩 **GoLang** — Designing concurrent and scalable microservices  
-- 🧪 **Testing & Debugging** — Ensuring reliability through clean, tested code  
-
----
-
-## 🌱 **What I'm Learning**
-
-- Advanced **GoLang microservices** and **API architecture**
-- Performance tuning for large-scale **Laravel** applications  
-- **Docker**, **CI/CD pipelines**, and **API security**
-
----
-
-## 🏗️ **What I'm Passionate About**
-
-> **"Think. Plan. Execute."**
-
-Building software that not only works — but works **beautifully**, **securely**, and **at scale**.  
-I believe in writing clean, understandable code that stands the test of time.
-
----
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-[![MansoorQazi71's GitHub stats](https://github-readme-stats.vercel.app/api?username=MansoorQazi71)](https://github.com/MansoorQazi71/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MansoorQazi71)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MansoorQazi71&layout=compact&theme=dark)
-
-</div>
-
----
-
-## 🛠️ **Languages and Tools**
-
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
----
-
-## 🎯 **Featured Projects**
-
-Coming soon! Check out my repositories to see what I'm working on.
-
----
-
-## 📫 **Let's Connect**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansoorqazi71)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MansoorQazi71)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansoorqazi71@gmail.com)
-
-</div>
-
----
-
-
-## 🏆 **Achievements**
-
-- ⭐ Super Committer — Consistent contributor to open source  
-- 🚀 Multiple successful projects deployed  
-- 💡 Strong focus on clean code and best practices  
-- 🔒 Security-focused development approach  
-
----
-
-<div align="center">
-
-### ⭐ **"Code with logic. Build with purpose."**
-
-*Feel free to reach out for collaborations or just a friendly hello!*
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansoorqazi71&" alt="mansoorqazi71" /></p>
